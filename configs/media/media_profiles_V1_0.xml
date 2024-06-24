@@ -84,7 +84,7 @@
                    bitRate="128000"
                    width="320"
                    height="240"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="amrnb"
                    bitRate="12200"
                    sampleRate="8000"
@@ -96,7 +96,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -108,7 +108,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -120,7 +120,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -132,7 +132,7 @@
                    bitRate="17000000"
                    width="1920"
                    height="1080"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -144,7 +144,7 @@
                    bitRate="192000"
                    width="176"
                    height="144"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="amrnb"
                    bitRate="12200"
@@ -157,7 +157,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -170,7 +170,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -183,7 +183,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -196,7 +196,7 @@
                    bitRate="17000000"
                    width="1920"
                    height="1080"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -218,7 +218,7 @@
                    bitRate="128000"
                    width="320"
                    height="240"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="amrnb"
                    bitRate="12200"
                    sampleRate="8000"
@@ -230,7 +230,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -242,7 +242,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -254,7 +254,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -266,7 +266,7 @@
                    bitRate="192000"
                    width="176"
                    height="144"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="amrnb"
                    bitRate="12200"
@@ -279,7 +279,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -292,7 +292,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -305,7 +305,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -326,7 +326,7 @@
                    bitRate="128000"
                    width="320"
                    height="240"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="amrnb"
                    bitRate="12200"
                    sampleRate="8000"
@@ -338,7 +338,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -350,7 +350,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -362,7 +362,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -374,7 +374,7 @@
                    bitRate="17000000"
                    width="1920"
                    height="1080"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -386,7 +386,7 @@
                    bitRate="192000"
                    width="176"
                    height="144"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="amrnb"
                    bitRate="12200"
@@ -399,7 +399,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -412,7 +412,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -425,7 +425,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -438,7 +438,7 @@
                    bitRate="17000000"
                    width="1920"
                    height="1080"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -460,7 +460,7 @@
                    bitRate="128000"
                    width="320"
                    height="240"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="amrnb"
                    bitRate="12200"
                    sampleRate="8000"
@@ -472,7 +472,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -484,7 +484,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -496,7 +496,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -508,7 +508,7 @@
                    bitRate="192000"
                    width="176"
                    height="144"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="amrnb"
                    bitRate="12200"
@@ -521,7 +521,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -534,7 +534,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -547,7 +547,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -568,7 +568,7 @@
                    bitRate="128000"
                    width="320"
                    height="240"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="amrnb"
                    bitRate="12200"
                    sampleRate="8000"
@@ -580,7 +580,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -592,7 +592,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -604,7 +604,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -616,7 +616,7 @@
                    bitRate="17000000"
                    width="1920"
                    height="1080"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -628,7 +628,7 @@
                    bitRate="192000"
                    width="176"
                    height="144"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="amrnb"
                    bitRate="12200"
@@ -641,7 +641,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -654,7 +654,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -667,7 +667,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -680,7 +680,7 @@
                    bitRate="17000000"
                    width="1920"
                    height="1080"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -702,7 +702,7 @@
                    bitRate="128000"
                    width="320"
                    height="240"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="amrnb"
                    bitRate="12200"
                    sampleRate="8000"
@@ -714,7 +714,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -726,7 +726,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -738,7 +738,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <Audio codec="aac"
                    bitRate="96000"
                    sampleRate="48000"
@@ -750,7 +750,7 @@
                    bitRate="192000"
                    width="176"
                    height="144"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="amrnb"
                    bitRate="12200"
@@ -763,7 +763,7 @@
                    bitRate="1200000"
                    width="352"
                    height="288"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -776,7 +776,7 @@
                    bitRate="6000000"
                    width="720"
                    height="480"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
@@ -789,7 +789,7 @@
                    bitRate="12000000"
                    width="1280"
                    height="720"
-                   frameRate="30" />
+                   frameRate="60" />
             <!-- audio setting is ignored -->
             <Audio codec="aac"
                    bitRate="96000"
