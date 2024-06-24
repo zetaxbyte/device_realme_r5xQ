@@ -16,7 +16,7 @@ $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 TARGET_BOOT_ANIMATION_RES := 720
-TARGET_GAPPS_ARCH := arm64
+# TARGET_GAPPS_ARCH := arm64
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
 USE_PIXEL_CHARGING := true
 
@@ -24,7 +24,7 @@ PRODUCT_BRAND := realme
 PRODUCT_DEVICE := r5xQ
 PRODUCT_MANUFACTURER := realme
 PRODUCT_NAME := nad_r5xQ
-PRODUCT_MODEL := Realme 5 Series
+PRODUCT_MODEL := Realme r5xQ Series
 
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
