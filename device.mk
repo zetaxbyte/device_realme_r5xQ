@@ -156,9 +156,9 @@ PRODUCT_PACKAGES += \
     BluetoothQti \
     vendor.qti.hardware.btconfigstore@1.0.vendor
 
-# Camera los
+# Camera
 PRODUCT_PACKAGES += \
-    lineageos
+    Snap
 
 # Camera
 PRODUCT_PACKAGES += \
@@ -182,6 +182,10 @@ PRODUCT_PACKAGES += \
 # Configstore
 PRODUCT_PACKAGES += \
     android.hardware.configstore@1.0-service
+
+# camera los
+PRODUCT_PACKAGES += \
+    lineageos
 
 # Dalvik
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
