@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_r5xQ.mk
+    $(LOCAL_DIR)/ancient_r5xQ.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_r5xQ-user \
-    nad_r5xQ-userdebug \
-    nad_r5xQ-eng
+    ancient_r5xQ-user \
+    ancient_r5xQ-userdebug \
+    ancient_r5xQ-eng
