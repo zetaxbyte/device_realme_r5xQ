@@ -10,7 +10,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 
 # Inherit some common LineageOS stuff
-$(call inherit-product, vendor/arrow/config/common.mk)
+$(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 
 # Inherit from r5xQ device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
@@ -23,7 +23,7 @@ USE_PIXEL_CHARGING := true
 PRODUCT_BRAND := realme
 PRODUCT_DEVICE := r5xQ
 PRODUCT_MANUFACTURER := realme
-PRODUCT_NAME := arrow_r5xQ
+PRODUCT_NAME := derp_r5xQ
 PRODUCT_MODEL := Realme r5xQ Series
 
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
