@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_r5xQ.mk
+    $(LOCAL_DIR)/arrow_r5xQ.mk
 
 COMMON_LUNCH_CHOICES := \
-    ancient_r5xQ-user \
-    ancient_r5xQ-userdebug \
-    ancient_r5xQ-eng
+    arrow_r5xQ-user \
+    arrow_r5xQ-userdebug \
+    arrow_r5xQ-eng
