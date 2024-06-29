@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_r5xQ.mk
+    $(LOCAL_DIR)/nad_r5xQ.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_r5xQ-user \
-    derp_r5xQ-userdebug \
-    derp_r5xQ-eng
+    nad_r5xQ-user \
+    nad_r5xQ-userdebug \
+    nad_r5xQ-eng
