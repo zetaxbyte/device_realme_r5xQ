@@ -5,7 +5,6 @@ type thermal_data_file, file_type, data_file_type;
 
 #from audit to allow
 
-type init;
 type hal_health_default;
 type proc_net;
 type sysfs_usb_supply;
