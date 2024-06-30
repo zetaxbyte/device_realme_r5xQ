@@ -2,3 +2,29 @@ type ir_dev_file, file_type;
 type public_adsprpcd_file, file_type;
 type sysfs_touchpanel, fs_type, sysfs_type;
 type thermal_data_file, file_type, data_file_type;
+
+#from audit to allow
+
+type init;
+type hal_health_default;
+type proc_net;
+type sysfs_usb_supply;
+type hal_camera_default;
+type mnt_vendor_file;
+type snap_app;
+type hal_gnss_qti;
+type persist_camera_prop;
+type hal_fingerprint_default;
+type proc_meminfo;
+type sysfs;
+type storaged;
+type system_server;
+type kernel;
+type vendor_default_prop;
+type proc;
+type sysfs_battery_supply;
+class filesystem associate;
+class file { getattr map open read };
+class binder call;
+class netlink_kobject_uevent_socket read;
+class dir search;
