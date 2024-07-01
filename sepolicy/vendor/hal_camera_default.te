@@ -6,6 +6,5 @@ get_prop(hal_camera_default, camera_ro_prop)
 get_prop(hal_camera_default, vendor_video_prop)
 set_prop(hal_camera_default, vendor_camera_prop)
 
-allow hal_camera_default init:binder call;
 allow hal_camera_default proc:file { getattr open read };
 allow hal_camera_default proc_meminfo:file { getattr open read };
